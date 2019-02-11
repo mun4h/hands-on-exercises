@@ -1,0 +1,27 @@
+html{
+  background-color: dodgerblue;
+}
+
+body{
+   width: 60%;
+   margin: 0 auto;
+   background-color: lawngreen;
+   border: 2px solid black;
+}
+
+img{
+  border-radius: 100%;
+  border: 10px ridge gold;
+  margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  padding: 10px
+}
+
+#primary{
+  color: blue;
+}
+
+#secondary{
+  color: orange;
+}
