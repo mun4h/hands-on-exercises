@@ -1,0 +1,10 @@
+p{
+  color: red;
+}
+
+[target=_blank] {
+  color: blue;
+}
+.emph{
+  color:grey
+}
