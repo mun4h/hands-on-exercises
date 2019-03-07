@@ -1,0 +1,10 @@
+h1{
+  text-indent: 2rem;
+}
+h1::first-letter{
+  font-size: 2rem;
+  color: green;
+}
+h1::first-line{
+  color: red;
+}
